@@ -1,0 +1,26 @@
+{
+  "name": "study-anted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuxingquezhi/antd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuxingquezhi/antd/issues"
+  },
+  "homepage": "https://github.com/wuxingquezhi/antd#readme",
+  "devDependencies": {
+    "umi": "^2.2.8",
+    "umi-plugin-react": "^1.2.3"
+  }
+}
